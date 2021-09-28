@@ -1,6 +1,6 @@
 {
   "name": "GitHub Codespaces Test",
-	"build": {
-		"dockerfile": "Dockerfile"
-	},
+  "build": {
+    "dockerfile": "Dockerfile"
+  },
 }
